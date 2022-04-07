@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="src/assets/icons/512x512.png" width="200px"><br>
+	<img src="com.github._0negal.Viper.png" width="200px"><br>
 </p>
 
 # Viper
