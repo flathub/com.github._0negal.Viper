@@ -22,6 +22,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.3.3" date="2022-04-17">
+			<description>
+				<p>Fixed a bug causing Viper to sometimes not launch properly</p>
+				<p>Changing the language disables the "Auto-Detect Language" option for you</p>
+			</description>
+		</release>
 		<release version="1.3.2" date="2022-04-16">
 			<description>
 				<p>Added the ability to manually select a language</p>
