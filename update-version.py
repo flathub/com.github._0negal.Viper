@@ -27,7 +27,7 @@ print(f"Newest version is: {release_version}")
 
 # The part of the JSON object that refers to the AppImage
 appimage_object = [x for x in json.loads(
-    api_response)["assets"] if "AppImage" in x["name"]][0]
+    api_response)["assets"] if "tar.gz" in x["name"]][0]
 
 
 # Simple check to ensure that versions match up
