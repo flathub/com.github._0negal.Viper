@@ -6,7 +6,7 @@
 
 Viper is a launcher and updater for [Northstar](https://github.com/R2Northstar/Northstar), and not much more than that.
 
-The Flatpak version simply takes the upstream AppImage and repacks it inside a Flatpak sandbox.
+The Flatpak version simply takes the upstream tar archive and repacks it inside a Flatpak sandbox.
 
 The repository for Viper can be found [here](https://github.com/0neGal/viper).
 
