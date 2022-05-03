@@ -22,11 +22,20 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.4.0" date="2022-05-03">
+			<description>
+				<p>Added direct links to user profiles if mentioned in release notes</p>
+				<p>Added support for Northstar's builtin way to toggle mods, and removed old method</p>
+				<p>Bumped EJS to v3.1.7</p>
+				<p>Fixed Northstar release notes not being rendered properly</p>
+				<p>Fixed error showing up if config was invalid, now a useful alert will appear, that allows you to reset the config</p>
+			</description>
+		</release>
 		<release version="1.3.4" date="2022-04-24">
 			<description>
+				<p>Slight improvements to the UI</p>
 				<p>Fixed Pre-Releases showing up in release notes</p>
 				<p>Fixed the "Gamepath no longer exists" message showing on first launch</p>
-				<p>Slight improvements to the UI</p>
 			</description>
 		</release>
 		<release version="1.3.3" date="2022-04-17">
