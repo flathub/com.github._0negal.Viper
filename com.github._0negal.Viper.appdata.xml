@@ -22,6 +22,15 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.5.0" date="2022-05-20">
+			<description>
+				<p>Revamped the mod browser</p>
+				<p>Added a previewer for mod pages</p>
+				<p>Added dependency support to the mod browser</p>
+				<p>Added a "Load more" button to the mod browser</p>
+				<p>A lot of performance improvements in the mod browser</p>
+			</description>
+		</release>
 		<release version="1.4.0" date="2022-05-03">
 			<description>
 				<p>Added direct links to user profiles if mentioned in release notes</p>
