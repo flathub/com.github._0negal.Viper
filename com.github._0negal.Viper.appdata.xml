@@ -22,6 +22,14 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.6.0" date="2022-06-12">
+			<description>
+				<p>Added some neat animations</p>
+				<p>Added an option to close Origin when Viper is closed</p>
+				<p>Added a status for the masterserver, player counts, server counts etc</p>
+				<p>Cookie and Thunderstore Mod Manager alerts are now removed in the mod previewer</p>
+			</description>
+		</release>
 		<release version="1.5.1" date="2022-05-21">
 			<description>
 				<p>Fixed filters closing when trying to toggle them</p>
