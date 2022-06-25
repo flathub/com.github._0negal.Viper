@@ -11,6 +11,7 @@ finish-args:
   - --share=ipc # Necessary for X11
   - --share=network # Network access
   - --device=dri # OpenGL rendering
+  - --filesystem=home/.var/app/com.valvesoftware.Steam # Default location for flatpak Steam installs
   - --filesystem=home # Default location for Steam installs
   - --filesystem=/media # The game could be installed on a SD card (common for SteamDeck)
   - --filesystem=/mnt # The game could be installled on a secondary drive
