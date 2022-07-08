@@ -22,6 +22,13 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.6.1" date="2022-07-08">
+			<description>
+				<p>Added German translations</p>
+				<p>Added visible progress percentage to the extraction process</p>
+				<p>Added deprecated our own method of keeping track of NS versions, in favor of a universal method</p>
+			</description>
+		</release>
 		<release version="1.6.0" date="2022-06-12">
 			<description>
 				<p>Added some neat animations</p>
