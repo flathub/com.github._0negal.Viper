@@ -22,6 +22,16 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.7.0" date="2023-02-07">
+			<description>
+				<p>Redesigned mod page to closer resemble the Thunderstore browser</p>
+				<p>Improved codebase substantially</p>
+				<p>Custom UserAgent to HTTP requests</p>
+				<p>Fixed some mods not being able to install</p>
+				<p>Updated the versions of various dependencies</p>
+				<p>The release notes pages have a slightly tweaked design</p>
+			</description>
+		</release>
 		<release version="1.6.3" date="2022-11-23">
 			<description>
 				<p>Error messages are now far more user friendly</p>
