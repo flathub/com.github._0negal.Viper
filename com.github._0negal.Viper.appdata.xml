@@ -22,6 +22,15 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.7.1" date="2023-03-08">
+			<description>
+				<p>HTTP/download errors are now handled more smoothly</p>
+				<p>Improved codebase once again, even more than last time</p>
+				<p>An alert is now shown if you attempt to update the game while it is running</p>
+				<p>Changing language now automatically disables the automatic language detection</p>
+				<p>Northstar updates are now downloaded to a temporary folder instead of your gamepath</p>
+			</description>
+		</release>
 		<release version="1.7.0" date="2023-02-07">
 			<description>
 				<p>Redesigned mod page to closer resemble the Thunderstore browser</p>
