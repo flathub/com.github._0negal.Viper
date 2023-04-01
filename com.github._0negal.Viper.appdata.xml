@@ -22,6 +22,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.7.2" date="2023-04-01">
+			<description>
+				<p>Fix reset config button not working for some people</p>
+			</description>
+		</release>
 		<release version="1.7.1" date="2023-03-08">
 			<description>
 				<p>HTTP/download errors are now handled more smoothly</p>
