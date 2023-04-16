@@ -22,6 +22,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.7.3" date="2023-04-16">
+			<description>
+				<p>Option to auto-close EA Desktop when closing Viper</p>
+			</description>
+		</release>
 		<release version="1.7.2" date="2023-04-01">
 			<description>
 				<p>Fix reset config button not working for some people</p>
