@@ -22,6 +22,17 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.8.0" date="2023-07-24">
+			<description>
+				<p>Added hoverable tooltips</p>
+				<p>Added colored console output</p>
+				<p>Small changes to the codebase</p>
+				<p>Added support for the "packages" folder</p>
+				<p>Northstar's core mods now have a default icon</p>
+				<p>Fixed clarity and spelling errors in some Spanish translations</p>
+				<p>The "Launch" button will now become disabled and say "Running..." when the game is running</p>
+			</description>
+		</release>
 		<release version="1.7.3" date="2023-04-16">
 			<description>
 				<p>Option to auto-close EA Desktop when closing Viper</p>
