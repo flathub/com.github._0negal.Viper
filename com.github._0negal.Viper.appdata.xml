@@ -22,6 +22,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.8.1" date="2023-07-25">
+			<description>
+				<p>Fixed CLI "up-to-date" message not replacing `%s` with the version number</p>
+				<p>Fixed packages having a `v` in their version for the folder name of the package</p>
+			</description>
+		</release>
 		<release version="1.8.0" date="2023-07-24">
 			<description>
 				<p>Added hoverable tooltips</p>
