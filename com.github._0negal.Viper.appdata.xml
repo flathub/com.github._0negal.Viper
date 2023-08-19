@@ -22,10 +22,18 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.8.2" date="2023-08-17">
+			<description>
+				<p>Fixed Northstar launch arguments not being saved correctly</p>
+				<p>Fixed error relating to "console.status" not being defined</p>
+				<p>Removed "error:" from errors in the logs, their now red color make it unnecessarily verbose</p>
+				<p>Window buttons are no longer placed below popups, making them accessible whilst a popup is open</p>
+			</description>
+		</release>
 		<release version="1.8.1" date="2023-07-25">
 			<description>
-				<p>Fixed CLI "up-to-date" message not replacing `%s` with the version number</p>
-				<p>Fixed packages having a `v` in their version for the folder name of the package</p>
+				<p>Fixed CLI "up-to-date" message not replacing "%s" with the version number</p>
+				<p>Fixed packages having a "v" in their version for the folder name of the package</p>
 			</description>
 		</release>
 		<release version="1.8.0" date="2023-07-24">
