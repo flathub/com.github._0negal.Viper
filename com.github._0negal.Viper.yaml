@@ -45,5 +45,5 @@ modules:
         path: com.github._0negal.Viper.appdata.xml
       # Tar archive
       - type: archive
-        url: https://github.com/0neGal/viper/releases/download/v1.8.2/viper-1.8.2.tar.gz
-        sha256: bd59be7490166af479b72f442f5fc93d891801f37f3da2f0b610ecfaa9b8785d
+        url: https://github.com/0neGal/viper/releases/download/v1.8.3/viper-1.8.3.tar.gz
+        sha256: 8669e52e80b86ea384345d59f40b0120002c66ef3ad607f961bfa257c5bede74
