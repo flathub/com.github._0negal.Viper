@@ -22,6 +22,14 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.8.4" date="2023-08-26">
+			<description>
+				<p>Fixed packages/mods not properly being detected as installed in the mod browser</p>
+				<p>Fixed packages/mods not properly being detected as out-of-date and or up-to-date</p>
+				<p>Fixed edge case where the error relating to the "packages" folder not existing, still occurred</p>
+				<p>Fixed the mod browser thinking it'd reached the end of available packages, when it had in fact not</p>
+			</description>
+		</release>
 		<release version="1.8.3" date="2023-08-21">
 			<description>
 				<p>Fixed cosmetic errors on first install relating to the "packages" folder not existing</p>
