@@ -22,6 +22,15 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.8.5" date="2023-09-14">
+			<description>
+				<p>Bumped Electron from v22.0.0 to v22.3.21</p>
+				<p>Fixed "invalid config" error showing when it shouldn't</p>
+				<p>Made parsing of config file able to recover from some formatting errors</p>
+				<p>Fixed the gamepath selection process sometimes showing on every startup</p>
+				<p>Fixed the main and renderer process sometimes having out-of-sync settings</p>
+			</description>
+		</release>
 		<release version="1.8.4" date="2023-08-26">
 			<description>
 				<p>Fixed packages/mods not properly being detected as installed in the mod browser</p>
