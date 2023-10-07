@@ -22,6 +22,19 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.9.0" date="2023-10-07">
+			<description>
+				<p>Bumped Electron from v22.3.21 to v22.3.25</p>
+				<p>Removed Thunderstore background image in mod browser preview</p>
+				<p>Added a button to force kill the game, below the launch button</p>
+				<p>Fixed toast notifications sometimes not breaking on a new line</p>
+				<p>Added buttons in the settings popup for fixing various problems</p>
+				<p>Fixed the filter popup having it's background blur be broken for some</p>
+				<p>Fixed the popup for the mod browser preview not being positioned correctly</p>
+				<p>Correctly handle missing read write file permissions of selected gamepaths</p>
+				<p>Fixed various buttons staying disabled after an invalid gamepath was selected, and then a valid one was later selected</p>
+			</description>
+		</release>
 		<release version="1.8.5" date="2023-09-14">
 			<description>
 				<p>Bumped Electron from v22.0.0 to v22.3.21</p>
