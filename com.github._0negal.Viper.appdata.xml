@@ -18,7 +18,24 @@
 	</description>
 	<screenshots>
 		<screenshot type="default">
-			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/preview.png</image>
+			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/ns-launch.png</image>
+			<caption>Viper on the Northstar launch page</caption>
+		</screenshot>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/ns-mods.png</image>
+			<caption>Viper on the Northstar mods page</caption>
+		</screenshot>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/ns-releases.png</image>
+			<caption>Viper on the Northstar release notes page</caption>
+		</screenshot>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/viper.png</image>
+			<caption>Viper on the main page showing Viper's logo</caption>
+		</screenshot>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/0neGal/viper/main/assets/titanfall.png</image>
+			<caption>Viper on the vanilla Titanfall 2 page</caption>
 		</screenshot>
 	</screenshots>
 	<releases>
