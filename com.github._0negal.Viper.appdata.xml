@@ -39,6 +39,34 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.11.0" date="2024-02-05">
+			<description>
+				<p>Deprecate ns_startup_args.txt</p>
+				<p>Added search in settings popup</p>
+				<p>Added icons to various buttons</p>
+				<p>Bump Electron from 22.3.25 to 28.2.0</p>
+				<p>Settings categories are now toggleable</p>
+				<p>Entirely refactor src/modules/requests.js</p>
+				<p>Added artificial delay to checking updates</p>
+				<p>The Thunderstore package list now gets cached</p>
+				<p>Increased font weight on "Mods installed:" text</p>
+				<p>Added release dates to releases in release notes</p>
+				<p>Fixed "Force quit game" button being unclickable</p>
+				<p>Updating Northstar now deletes existing core mods</p>
+				<p>Changed away from unzipper and over to unzip-stream</p>
+				<p>Added "Force quit game" button to the Titanfall 2 page</p>
+				<p>The icon of disabled mods now are slightly transparent</p>
+				<p>Fixed Titanfall 2 version having a newline in --version</p>
+				<p>Many visual changes to the release notes and mods pages</p>
+				<p>Fixed multiple updates being able to be run simultaneously</p>
+				<p>Fixed main process sometimes not having up-to-date settings</p>
+				<p>Fixed wrong top and bottom margins on releases in release notes</p>
+				<p>Fixed "Northstar is not installed!" showing up in logs when updating</p>
+				<p>Moved requests cache to (system cache folder)/Viper/cached-requests.json</p>
+				<p>Fixed dependency confirmation message using incorrect localization string</p>
+				<p>Moved temporary folder for Northstar and mod downloads to (system cache folder)/Viper/Temp/</p>
+			</description>
+		</release>
 		<release version="1.10.0" date="2023-11-27">
 			<description>
 				<p>Added Chinese Simplified as a language</p>
