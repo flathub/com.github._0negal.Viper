@@ -7,7 +7,7 @@
 	<developer_name>0neGal</developer_name>
 	<url type="homepage">https://0negal.github.io/viper</url>
 	<launchable type="desktop-id">com.github._0negal.Viper.desktop</launchable>
-	<summary>Viper is a launcher and updater for Northstar, and not much more than that.</summary>
+	<summary>Viper is a launcher and updater for Northstar, and not much more than that</summary>
 	<description>
 		<p>Viper is a launcher and updater for the Titanfall|2 mod Northstar, and not much more than that.</p>
 		<p>Currently Viper is capable of:</p>
