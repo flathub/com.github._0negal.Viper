@@ -5,3 +5,5 @@ Terminal=false
 Type=Application
 Icon=com.github._0negal.Viper
 Categories=Game;
+MimeType=x-scheme-handler/ror2mm;
+
