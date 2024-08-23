@@ -13,7 +13,8 @@ finish-args:
   - --device=dri # OpenGL rendering
   - --filesystem=home/.var/app/com.valvesoftware.Steam # Default location for flatpak Steam installs
   - --filesystem=home # Default location for Steam installs
-  - --filesystem=/media # The game could be installed on a SD card (common for SteamDeck)
+  - --filesystem=/run/media # The game could be installed on removable media (common for SteamDeck)
+  - --filesystem=/media # Alternative path for removable media
   - --filesystem=/mnt # The game could be installled on a secondary drive
 modules:
   - name: viper
