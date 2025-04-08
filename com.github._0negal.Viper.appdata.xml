@@ -40,6 +40,22 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.13.0" date="2025-04-08">
+			<description>
+				<p>Gamepad/controller support</p>
+				<p>Support "ror2mm://" protocol</p>
+				<p>Added offline indicator/icon</p>
+				<p>Improve offline/online detection</p>
+				<p>Added sorting to the mod browser</p>
+				<p>Added a search bar to the mods list</p>
+				<p>Bumped Electron from "v28.2.0" to "v33.2.1"</p>
+				<p>Better error handling during unzipping of Northstar</p>
+				<p>Fixed gamepath permission alert opening multiple times</p>
+				<p>Add guide buttons for mods with non-default installations</p>
+				<p>Properly ensure a connection when downloading from somewhere</p>
+				<p>Only show a warning when disabling core mods, and not when enabling</p>
+			</description>
+		</release>
 		<release version="1.12.1" date="2024-06-23">
 			<description>
 				<p>Fixed the VDF parser always assuming "libraryfolders" exists in VDF files</p>
